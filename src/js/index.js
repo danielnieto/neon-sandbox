@@ -1,3 +1,3 @@
-require("./audio-player");
+require("./widget");
 
-new AudioPlayer().render(document.body);
+new NeonWidget().render(document.body);
