@@ -1,7 +1,7 @@
 {
-  "name": "neon-sandbox",
+  "name": "audio-player-prototype",
   "version": "1.0.0",
-  "description": "a sandbox for Neon projects",
+  "description": "prototype for an audio player",
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
@@ -11,7 +11,5 @@
   "devDependencies": {
     "parcel-bundler": "^1.6.1"
   },
-  "keywords": [
-    "neon"
-  ]
+  "keywords": []
 }
